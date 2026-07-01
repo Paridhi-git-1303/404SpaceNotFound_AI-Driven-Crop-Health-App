@@ -2,6 +2,10 @@
 
 This project is a beginner-friendly prototype for crop type mapping, moisture stress detection, and irrigation advisory. It uses Python, GeoPandas, Pandas, scikit-learn, Flask, Leaflet, and Chart.js.
 
+## Live Deployment Link
+
+[Crop Monitoring App](https://isro-hackathon-six.vercel.app/)
+
 ## What it does
 - Reads pilot area and training points from GeoJSON.
 - Generates crop classification output.
